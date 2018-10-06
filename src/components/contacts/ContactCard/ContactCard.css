@@ -1,0 +1,14 @@
+.card-header {
+  background-color: black;
+  color: white; }
+
+.card {
+  margin-bottom: 20px; }
+
+.card-click {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 10; }

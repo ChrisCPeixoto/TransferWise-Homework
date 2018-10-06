@@ -1,0 +1,76 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Kiss Bence",
+      "email": "kissbence@gmail.com",
+      "phone": "+3620789732"
+    },
+    {
+      "id": 2,
+      "name": "Kovacs Ibolyaa",
+      "email": "kovacsibolya@gmail.com",
+      "phone": "+3620837732"
+    },
+    {
+      "id": 3,
+      "name": "Nagy David",
+      "email": "nagydavid@gmail.com",
+      "phone": "+3620907752"
+    },
+    {
+      "id": 4,
+      "name": "Peixoto Christophe",
+      "email": "christophepeixoto@gmail.com",
+      "phone": "+3620935652"
+    },
+    {
+      "id": 5,
+      "name": "Antal Csaba",
+      "email": "antalcsaba@gmail.com",
+      "phone": "+3670915652"
+    },
+    {
+      "id": 6,
+      "name": "Czimadia Patricia",
+      "email": "cszipat@hotmail.com",
+      "phone": "+3670931952"
+    },
+    {
+      "id": 7,
+      "name": "Apro Balint",
+      "email": "aprob@hotmail.com",
+      "phone": "+3670990952"
+    },
+    {
+      "id": 8,
+      "name": "Cszondor Laszlo",
+      "email": "czondorl92@gmail.com",
+      "phone": "+3670283952"
+    },
+    {
+      "id": 9,
+      "name": "Nagy Renata",
+      "email": "nagyrenata@gmail.com",
+      "phone": "+3620283997"
+    },
+    {
+      "id": 10,
+      "name": "David Zoltan",
+      "email": "davidzoltan@gmail.com",
+      "phone": "+3620283283"
+    },
+    {
+      "id": 11,
+      "name": "Toth Tomas",
+      "email": "ttomas@gmail.com",
+      "phone": "+3670221283"
+    },
+    {
+      "id": 12,
+      "name": "Fodor Bernadett",
+      "email": "fodordetti@yahoo.com",
+      "phone": "+3670921081"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+.App-logo {
+
+  float: left;
+  margin: 15px 0px;
+  width: initial;
+  height: 90px;
+}
+.main-content{
+  margin-bottom:50px;
+  min-width:560px;
+}
+.App-header{
+  width: 100%;
+  display: inline-block;
+}
+.header-search{
+  float: right;
+  margin: 15px;
+  width: inherit;
+  display: inline-block;
+  position: absolute;
+  top: 45px;
+  right: 0;
+  border-style: solid;
+  border-width: 2px;
+  text-align: center;
+}
+.contactUnderline{
+  border-bottom: 2px solid red;
+  padding-bottom: 3px;
+}
+
+.contactForm{
+  text-align: left;
+}
+.button-form{
+  justify-content: center;
+}
+
+@media screen and (min-width: 768px) {
+  .header-search{
+      width: 25%;
+      top: 40px;
+  }
+  .App-logo{
+    height: 80px;
+    width: initial;
+    margin: 15px;
+  }
+}
