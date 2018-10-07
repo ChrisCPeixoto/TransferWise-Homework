@@ -6,6 +6,7 @@ import Aux from '../../../hoc/Aux'
 import ContactCard from '../../contacts/ContactCard/ContactCard'
 import Letters from '../../contacts/Letters/Letters'
 import './ListContainer.css';
+import Alert from 'react-s-alert';
 
 class ListContainer extends Component {
   state={
@@ -54,6 +55,13 @@ searchByLetter=(letter)=>{
                  this.fillLetters();
             }
           })
+          .catch((error) => {
+            Alert.error("List of users could not be loaded", {
+                  position: 'top',
+                  effect: 'slide',
+                  timeout: 3000
+                });
+            });
   }
   render() {
     return (

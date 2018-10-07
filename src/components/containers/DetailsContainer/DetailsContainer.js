@@ -67,7 +67,7 @@ class DetailsContainer extends Component {
                     <span className="content-details red">{this.state.user.phone}</span>
                   </div>
                   <div className="row button-form">
-                  <button onClick={this.deleteContact} className="btn btn-outline-danger btn-details">Delete</button>
+                  <button onClick={this.deleteContact} id="deletebutton" className="btn btn-outline-danger btn-details">Delete</button>
                   <Link to={'/edit/'+this.state.user.id}><button  className="btn btn-outline-secondary btn-details">Edit</button></Link>
                   </div>
               </div>
