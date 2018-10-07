@@ -6,8 +6,8 @@
   - json-server --watch src/data/contacts.json
 
 
-npm install
-npm start
+ - npm install
+ - npm start
 
 # To test:
 npm test
